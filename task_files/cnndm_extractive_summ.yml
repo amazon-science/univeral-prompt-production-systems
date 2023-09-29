@@ -1,0 +1,4 @@
+cnndm_topic_extractive:
+  data_dir: /home/ubuntu/Datasets/cnn-dm_extractive
+  extension: csv
+  modes: [train, val]

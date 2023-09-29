@@ -1,0 +1,4 @@
+xsum_summarize:
+  data_dir: /home/ubuntu/Datasets/xsum
+  extension: csv
+  modes: [train, val, test]

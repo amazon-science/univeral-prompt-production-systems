@@ -1,0 +1,12 @@
+torch==1.9.0
+torchvision==0.10.0
+transformers==4.9.1
+datasets=1.11.0
+comet_ml==3.13.2
+scikit-learn==0.24.2
+pytorch-lightning==1.4.9
+torchsort==0.1.7
+pyyaml
+tqdm
+swifter
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz

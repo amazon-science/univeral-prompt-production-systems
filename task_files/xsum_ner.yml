@@ -1,0 +1,4 @@
+xsum_ner:
+  data_dir: /home/ubuntu/Datasets/xsum_ner
+  extension: csv
+  modes: [train, val]

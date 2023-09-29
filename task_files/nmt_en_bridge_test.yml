@@ -1,0 +1,30 @@
+translation_1:
+  load_name: europarl_bilingual
+  source_lang: fr
+  target_lang: en
+  modes: [test]
+translation_2:
+  load_name: europarl_bilingual
+  source_lang: en
+  target_lang: fr
+  modes: [test]
+translation_3:
+  load_name: europarl_bilingual
+  source_lang: en
+  target_lang: de
+  modes: [test]
+translation_4:
+  load_name: europarl_bilingual
+  source_lang: de
+  target_lang: en
+  modes: [test]
+translation_5:
+  load_name: europarl_bilingual
+  source_lang: fr
+  target_lang: de
+  modes: [test]
+translation_6:
+  load_name: europarl_bilingual
+  source_lang: de
+  target_lang: fr
+  modes: [test]

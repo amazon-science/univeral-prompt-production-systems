@@ -1,0 +1,16 @@
+xsum_extractive:
+  data_dir: /home/ubuntu/Datasets/xsum_extractive
+  extension: csv
+  modes: [train]
+xsum_paraphrase:
+  data_dir: /home/ubuntu/Datasets/xsum_paraphrase
+  extension: csv
+  modes: [train]
+xsum_ner:
+  data_dir: /home/ubuntu/Datasets/xsum_ner
+  extension: csv
+  modes: [train]
+xsum_summarize:
+  data_dir: /home/ubuntu/Datasets/xsum
+  extension: csv
+  modes: [val]

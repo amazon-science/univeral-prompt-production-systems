@@ -1,0 +1,5 @@
+translation_1:
+  load_name: europarl_bilingual
+  source_lang: fr
+  target_lang: de
+  modes: [train, val, test]

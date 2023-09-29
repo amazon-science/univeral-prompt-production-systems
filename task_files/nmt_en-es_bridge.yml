@@ -1,0 +1,52 @@
+translation_1:
+  load_name: europarl_bilingual
+  source_lang: fr
+  target_lang: en
+  modes: [train]
+translation_2:
+  load_name: europarl_bilingual
+  source_lang: en
+  target_lang: fr
+  modes: [train]
+translation_3:
+  load_name: europarl_bilingual
+  source_lang: en
+  target_lang: de
+  modes: [train]
+translation_4:
+  load_name: europarl_bilingual
+  source_lang: de
+  target_lang: en
+  modes: [train]
+
+translation_5:
+  load_name: europarl_bilingual
+  source_lang: fr
+  target_lang: es  
+  modes: [train]
+translation_6:
+  load_name: europarl_bilingual
+  source_lang: es
+  target_lang: fr
+  modes: [train]
+translation_7:
+  load_name: europarl_bilingual
+  source_lang: es
+  target_lang: de
+  modes: [train]
+translation_8:
+  load_name: europarl_bilingual
+  source_lang: de
+  target_lang: es
+  modes: [train]
+
+translation_9:
+  load_name: europarl_bilingual
+  source_lang: fr
+  target_lang: de
+  modes: [val]
+translation_10:
+  load_name: europarl_bilingual
+  source_lang: de
+  target_lang: fr
+  modes: [val]

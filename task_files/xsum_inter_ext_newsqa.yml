@@ -1,0 +1,8 @@
+xsum_extractive:
+  data_dir: /home/ubuntu/Datasets/xsum_extractive
+  extension: csv
+  modes: [train, val]
+newsqa:
+  data_dir: /home/ubuntu/Datasets/newsqa
+  extension: csv
+  modes: [train, val]

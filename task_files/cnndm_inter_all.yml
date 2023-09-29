@@ -1,0 +1,16 @@
+cnndm_topic_extractive:
+  data_dir: /home/ubuntu/Datasets/cnn-dm_extractive
+  extension: csv
+  modes: [train]
+newsqa:
+  data_dir: /home/ubuntu/Datasets/newsqa
+  extension: csv
+  modes: [train]
+xsum_summarize:
+  data_dir: /home/ubuntu/Datasets/launch_xsum
+  extension: csv
+  modes: [train]
+cnndm_topic_summarize:
+  data_dir: /home/ubuntu/Datasets/cnn-dm_subtopic
+  extension: csv
+  modes: [val]

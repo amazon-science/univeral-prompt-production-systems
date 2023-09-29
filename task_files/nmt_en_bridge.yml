@@ -1,0 +1,30 @@
+translation_1:
+  load_name: europarl_bilingual
+  source_lang: fr
+  target_lang: en
+  modes: [train, val]
+translation_2:
+  load_name: europarl_bilingual
+  source_lang: en
+  target_lang: fr
+  modes: [train, val]
+translation_3:
+  load_name: europarl_bilingual
+  source_lang: en
+  target_lang: de
+  modes: [train, val]
+translation_4:
+  load_name: europarl_bilingual
+  source_lang: de
+  target_lang: en
+  modes: [train, val]
+translation_5:
+  load_name: europarl_bilingual
+  source_lang: fr
+  target_lang: de
+  modes: [val]
+translation_6:
+  load_name: europarl_bilingual
+  source_lang: de
+  target_lang: fr
+  modes: [val]

@@ -1,0 +1,3 @@
+scan:
+  load_name: scan
+  modes: [val]

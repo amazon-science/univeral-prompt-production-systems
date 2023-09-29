@@ -1,0 +1,4 @@
+cnndm_topic_summarize:
+  data_dir: /home/ubuntu/Datasets/cnn-dm_subtopic
+  extension: csv
+  modes: [train, val, test]
